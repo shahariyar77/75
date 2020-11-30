@@ -1,0 +1,14 @@
+$(document).ready(function(){
+     $('#bar1').barfiller({
+          barColor:'red'
+     });
+    $('#bar2').barfiller({
+          barColor:'red'
+     });
+    $('#bar3').barfiller({
+          barColor:'red'
+     });
+    $('#bar4').barfiller({
+          barColor:'red'
+     });
+});

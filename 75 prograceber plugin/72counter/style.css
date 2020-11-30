@@ -1,0 +1,33 @@
+
+body{
+    padding: 0;
+    margin: 0;
+    font-family: Montserrat,Philosopher,Roboto;
+    
+}
+
+
+
+/*========================   Nav manu ==================*/
+
+p.counter-number {
+  font-size: 50px;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+.single-councer-box {
+  text-align: center;
+}
+.contenr-bloge {
+  padding: 50px 0;
+}
+.tittle{
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+
+
+
+
+
